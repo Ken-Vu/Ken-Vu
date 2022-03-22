@@ -1,4 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ken-Vu)
 # Hi, everyone!
 
 * My name is Ken Dinh Vu (Pronouns: he/him) and I am currently a M.S. Statistics student at California State University - East Bay. :man_student: 
