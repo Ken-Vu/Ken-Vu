@@ -2,8 +2,8 @@
 
 # About Me
 
-* My name is Ken Dinh Vu (Pronouns: he/him) and I am currently a M.S. Statistics student at California State University - East Bay. :man_student: 
-* Currently, I am studying regression analysis and design & analysis of experiments. :mag: 📊
+* My name is Ken Dinh Vu (Pronouns: he/him) and I am a rcent M.S. Statistics graduate from California State University - East Bay (CSUEB). :man_student: 
+* My interest in statistics came about when I was introduced to a statistician and recent CSUEB graduate while I was working as a research assistant at a community college district office.  That statistician and I collaborated on a survey research project where we both got to implement some data collection strategies as well as some elements of Natural Language Processing, which inspired me to pursue a Master's in Statistics program to further study these statistical tools and research strategies I was exposed to back then. :mag: 📊
 * My goal is to be a research scientist working in the non-profit sector where I could leverage the power of data science and leadership to create change in areas such as environmental justice, economic inequality, and other social issues. :handshake: :earth_americas: 
 * PERSONAL GOAL: I'm hoping to do more kickboxing and hiking for 2022 and beyond. :boxing_glove: :punch: ⛰️
 
