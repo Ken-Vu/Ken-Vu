@@ -14,4 +14,4 @@
 
 💸[Gender Wage Inequality in STEM](https://www.youtube.com/watch?v=ihl-15wL7zY)
 * **Presenter(s)**: Ken Vu (me), Lydia Gibson
-* * **Goal**: To show the r4ds Online Learning Community members the results of our Linear Regression analysis of disparities in wages in STEM fields by gender.
+* **Goal**: To show the r4ds Online Learning Community members the results of our Linear Regression analysis of disparities in wages in STEM fields by gender.
