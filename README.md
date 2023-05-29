@@ -6,7 +6,7 @@
 * PERSONAL GOAL: I'm hoping to do more kickboxing and hiking for 2022 and beyond. :boxing_glove: :punch: ⛰️
 
 # Project Highlights
-## 📊 Data Visualization with R: Chapter 5 - Multivariate graphs
+## 📊 Data Visualization with R: Chapter 5 - Multivariate Graphs
 
 [Video Presentation](https://www.youtube.com/watch?v=Wz0WCFv-gOk)
 * **Presenter(s)**: Ken Vu (me)
