@@ -12,11 +12,10 @@
 
 [Video Presentation](https://www.youtube.com/watch?v=Wz0WCFv-gOk)
 * **Presenter(s)**: Ken Vu (me)
-* **Goal**: To teach the r4ds Online Learning Community members how to plot more than two variables on a ggplot2 graph in R
+* **Goal**: To teach the r4ds Online Learning Community members how to plot more than two variables on a ggplot2 graph in R.  Material derived from Chapter 5 - Multivariate Graphs in the [Data Visualization with R](https://rkabacoff.github.io/datavis/) bookdown by Rob Kabacoff. 
 
 ## 💸 Gender Wage Inequality in STEM 
 
 [GitHub Repo](https://github.com/Ken-Vu/Gender-Wage-Inequality-in-STEM) | [Video Presentation](https://www.youtube.com/watch?v=ihl-15wL7zY) 
 * **Presenter(s)**: Ken Vu (me), Lydia Gibson
 * **Goal**: To show the r4ds Online Learning Community members the results of our Linear Regression analysis of disparities in wages in STEM fields by gender.
- Data Visualization with R: Chapter 5 - Multivariate graphs
