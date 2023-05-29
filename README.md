@@ -5,7 +5,7 @@
 * My goal is to be a research scientist working in the non-profit sector where I could leverage the power of data science and leadership to create change in areas such as environmental justice, economic inequality, and other social issues. :handshake: :earth_americas: 
 * PERSONAL GOAL: I'm hoping to do more kickboxing and hiking for 2022 and beyond. :boxing_glove: :punch: ⛰️
 
-# Project Highlights
+# Highlight of Projects Done
 ## 📊 Data Visualization with R: Chapter 5 - Multivariate graphs
 
 [Video Presentation](https://www.youtube.com/watch?v=Wz0WCFv-gOk)
