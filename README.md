@@ -1,5 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ken-Vu)
-
 # About Me
 
 * My name is Ken Dinh Vu (Pronouns: he/him) and I am a recent M.S. Statistics graduate from California State University - East Bay (CSUEB). :man_student: 
