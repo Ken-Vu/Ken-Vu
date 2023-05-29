@@ -8,14 +8,15 @@
 * PERSONAL GOAL: I'm hoping to do more kickboxing and hiking for 2022 and beyond. :boxing_glove: :punch: ⛰️
 
 # Presentations Given
-## Data Visualization with R: Chapter 5 - Multivariate graphs
+## 📊 Data Visualization with R: Chapter 5 - Multivariate graphs
 
 [Video Presentation](https://www.youtube.com/watch?v=Wz0WCFv-gOk)
 * **Presenter(s)**: Ken Vu (me)
 * **Goal**: To teach the r4ds Online Learning Community members how to plot more than two variables on a ggplot2 graph in R
 
-## Gender Wage Inequality in STEM 
+## 💸 Gender Wage Inequality in STEM 
 
 [GitHub Repo](https://github.com/Ken-Vu/Gender-Wage-Inequality-in-STEM) | [Video Presentation](https://www.youtube.com/watch?v=ihl-15wL7zY) 
 * **Presenter(s)**: Ken Vu (me), Lydia Gibson
 * **Goal**: To show the r4ds Online Learning Community members the results of our Linear Regression analysis of disparities in wages in STEM fields by gender.
+ Data Visualization with R: Chapter 5 - Multivariate graphs
