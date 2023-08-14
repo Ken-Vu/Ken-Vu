@@ -14,6 +14,6 @@
 
 ## 💸 Gender Wage Inequality in STEM 
 
-[GitHub Repo](https://github.com/Ken-Vu/Gender-Wage-Inequality-in-STEM) | [Video Presentation](https://www.youtube.com/watch?v=ihl-15wL7zY) 
+[GitHub Repo](https://github.com/Ken-Vu/Gender-Wage-Inequality-in-STEM) | [Presentation Slides](https://rpubs.com/lgibson7/stat632_final_presentaton) | [Video Presentation](https://www.youtube.com/watch?v=ihl-15wL7zY) 
 * **Presenter(s)**: Ken Vu (me), Lydia Gibson
 * **Goal**: To show the r4ds Online Learning Community members the results of our Linear Regression analysis of disparities in wages in STEM fields by gender.
