@@ -14,6 +14,6 @@
 
 ## 📊 Data Visualization with R: Chapter 5 - Multivariate Graphs
 
-[Video Presentation](https://www.youtube.com/watch?v=Wz0WCFv-gOk)
+[Github Repo](https://github.com/Ken-Vu/bookclub-datavisr) | [Video Presentation](https://www.youtube.com/watch?v=Wz0WCFv-gOk) | [Presentation Material]([https://www.youtube.com/watch?v=Wz0WCFv-gOk](https://r4ds.github.io/bookclub-datavisr/multivariate-graphs.html))
 * **Presenter(s)**: Ken Vu (me)
 * **Goal**: To teach the r4ds Online Learning Community members how to plot more than two variables on a ggplot2 graph in R.  Material derived from Chapter 5 - Multivariate Graphs in the [Data Visualization with R](https://rkabacoff.github.io/datavis/) bookdown by Rob Kabacoff.
