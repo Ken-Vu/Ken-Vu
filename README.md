@@ -1,9 +1,11 @@
 # About Me
 
 * My name is Ken Dinh Vu (Pronouns: he/him) and I am a recent M.S. Statistics graduate from California State University - East Bay (CSUEB). :man_student: 
-* My interest in statistics came about when I was introduced to a statistician and recent CSUEB graduate while I was working as a research assistant at a community college district office.  That statistician and I collaborated on a survey research project where we both got to implement some data collection strategies as well as some elements of Natural Language Processing, which inspired me to pursue a Master's in Statistics program to further study these statistical tools and research strategies I was exposed to back then. :mag: 📊
-* My goal is to be a research scientist working in the non-profit sector where I could leverage the power of data science and leadership to create change in areas such as environmental justice, economic inequality, and other social issues. :handshake: :earth_americas: 
-* PERSONAL GOAL: I'm hoping to do more kickboxing and hiking for 2022 and beyond. :boxing_glove: :punch: ⛰️
+* My interests fall primarily within the realm of R programming, particularly in the areas of data visualization as well as data storytelling.  I also have interests in learning more Python as well as Tableau.
+* You can find me online at:
+  * 🔗 [My blog: The R Files](https://kvu777.quarto.pub/the-r-files/)
+  * 🐘 [Mastodon](https://fosstodon.org/@kenvu777)
+  * 💼 [LinkedIn](https://www.linkedin.com/in/kenvu1/)
 
 # Project Highlights 
 ## 💸 Gender Wage Inequality in STEM 
