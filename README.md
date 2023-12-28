@@ -1,7 +1,7 @@
 # About Me
 
 * My name is Ken Dinh Vu (Pronouns: he/him) and I am a recent M.S. Statistics graduate from California State University - East Bay (CSUEB). :man_student: 
-* My interests fall primarily within the realm of R programming, particularly in the areas of data visualization as well as data storytelling.  I also have interests in learning more Python as well as Tableau.
+* My interests fall primarily within the realm of R programming, particularly in the areas of data visualization as well as data storytelling.  I also have interests in learning more Python as well as [Tableau](https://public.tableau.com/app/profile/ken.vu4280).
 * You can find me online at:
   * 🔗 [My blog: The R Files](https://kvu777.quarto.pub/the-r-files/)
   * 🐘 [Mastodon](https://fosstodon.org/@kenvu777)
