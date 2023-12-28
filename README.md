@@ -1,5 +1,5 @@
 # About Me
-* My name is Ken Dinh Vũ (Pronouns: he/him) and I graduated with my Master's in Statistics from California State University - East Bay (CSUEB) on May 13, 2023. :man_student: 
+* My name is Ken Đinh Vũ (Pronouns: he/him) and I graduated with my Master's in Statistics from California State University - East Bay (CSUEB) on May 13, 2023. :man_student: 
 * My interests fall primarily within the realm of R programming, particularly in the areas of data visualization as well as data storytelling.  I also have interests in learning more Python as well as [Tableau](https://public.tableau.com/app/profile/ken.vu4280).
 * You can find me online at:
   * 🔗 [My blog: The R Files](https://kvu777.quarto.pub/the-r-files/)
