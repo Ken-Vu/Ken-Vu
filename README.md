@@ -7,7 +7,7 @@
   * 💼 [LinkedIn](https://www.linkedin.com/in/kenvu1/)
 
 # Project Highlights 
-## 💸 Changes in Life Expectancy by Country (1952-2007)
+## 🌎 Changes in Life Expectancy by Country (1952-2007)
 
 [GitHub Repo](https://github.com/Ken-Vu/Changes-in-Life-Expectancy-by-Country-1952-2007-) | [Dashboard](https://kenvu.shinyapps.io/Changes-in-Life-Expectancy-by-Country-1952-2007-/) 
 * **Author**: Ken Vu
