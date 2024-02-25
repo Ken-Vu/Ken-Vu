@@ -7,6 +7,12 @@
   * 💼 [LinkedIn](https://www.linkedin.com/in/kenvu1/)
 
 # Project Highlights 
+## 💸 Changes in Life Expectancy by Country (1952-2007)
+
+[GitHub Repo](https://github.com/Ken-Vu/Changes-in-Life-Expectancy-by-Country-1952-2007-) | [Dashboard](https://kenvu.shinyapps.io/Changes-in-Life-Expectancy-by-Country-1952-2007-/) 
+* **Author**: Ken Vu
+* **Goal**: To showcase changes in life expectancy for different countries across the globe between different years within the range of 1952 to 2007.
+
 ## 💸 Gender Wage Inequality in STEM 
 
 [GitHub Repo](https://github.com/Ken-Vu/Gender-Wage-Inequality-in-STEM) | [Presentation Slides](https://rpubs.com/lgibson7/stat632_final_presentaton) | [Video Presentation](https://www.youtube.com/watch?v=ihl-15wL7zY) 
